@@ -602,6 +602,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61d03fc94a52bb7448b26cbe7790f9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myMessage: 'codio '
 --- !u!4 &1359713153
 Transform:
   m_ObjectHideFlags: 0
